@@ -5,7 +5,7 @@ Repository containing portfolio of data science projects that I have completed f
 
 ## Contents
 ### 1. Machine Learning
-  - Credit Card Approvals 
+  - Predicting Credit Card Approvals: A model that predicts whethwe a credit card application will be approved, using machine learning techniques.
 ### 2.  Natural Language Processing
 ### 3.  Data Analysis and Visualization
 ### 4.  Micro Projects
