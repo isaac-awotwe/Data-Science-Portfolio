@@ -4,7 +4,7 @@ Repository containing portfolio of data science projects that I have completed f
 *Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.*
 
 ## Contents
-1. ### Machine Learning
-2.  Natural Language Processing
-3.  Data Analysis and Visualization
-4.  Micro Projects
+### 1. Machine Learning
+### 2.  Natural Language Processing
+### 3.  Data Analysis and Visualization
+### 4.  Micro Projects
